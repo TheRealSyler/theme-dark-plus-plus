@@ -1,0 +1,27 @@
+{
+  "name": "theme-dark-plus-plus",
+  "displayName": "Dark++",
+  "description": "The Default Dark+ theme with a blue tint.",
+  "version": "0.0.1",
+  "icon": "logo.png",
+  "publisher": "syler",
+  "repository": {
+    "url": "https://github.com/TheRealSyler/theme-dark-plus-plus",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-plus-color-theme.json"
+      }
+    ]
+  }
+}
