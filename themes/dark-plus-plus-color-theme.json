@@ -10,7 +10,7 @@
     "menu.background": "#25252a",
     "editorGroupHeader.tabsBackground": "#25252a",
     "editorHoverWidget.background": "#25252a",
-    "editorInlayHint.foreground": "#25252a",
+    "editorInlayHint.foreground": "#ccc",
     "editorSuggestWidget.background": "#25252a",
     "editorWidget.background": "#25252a",
     "notifications.background": "#25252a",
