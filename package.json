@@ -9,6 +9,7 @@
     "url": "https://github.com/TheRealSyler/theme-dark-plus-plus",
     "type": "git"
   },
+  "private": "true",
   "engines": {
     "vscode": "^0.10.5"
   },
@@ -25,8 +26,7 @@
     ]
   },
   "scripts": {
-    "prepack": "suf",
-    "publish": "vsce publish"
+    "publish": "suf &&vsce publish"
   },
   "dependencies": {
     "suf-cli": "^0.3.2"
